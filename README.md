@@ -10,7 +10,8 @@ This is a demo of diagrams.net with Ontopanel plugin on the GithubPage. Ontopane
 
 **Please note! The official Diagrams.net website does not contain this plugin, only this version here.**
 
-Visit Ontopanel-diagrams.net version: [diagrams.net with Ontopanel](https://yuechenbam.github.io/src/main/webapp/index.html)
+Visit Ontopanel-diagrams.net version: [diagrams.net with Ontopanel](https://yuechenbam.github.io/src/main/webapp/index.html) 
+For OpenBIS: [diagrams.net] (https://natz396.github.io/src/main/webapp/index.html)
 
 Because this plugin version is hosted in the GithubPage, only the editor feature is available, other features related to Git or Collarbtion are not available.
 
